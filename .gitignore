@@ -1,0 +1,29 @@
+auto/
+bin/
+obj/
+test/out/
+
+# py.test?
+.cache/
+
+# python compiled modules
+*.pyc
+
+# VIM swap/backup
+*~
+*.bak
+.*.sw?
+
+# Sublime setup
+*.sublime*
+
+.svn/
+
+# Word swap
+~*
+
+# Local Visual studio stuff
+*.suo
+*.csproj.user
+*.psess
+*.vsp
